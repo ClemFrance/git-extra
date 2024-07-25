@@ -12,7 +12,7 @@ Blog Preview Card
 ### Screenshot
 
 ![alt text](<FireShot Capture 012 - Blog Card - .png>)
-![](fig1.jpg)
+![alt text](fig1.jpg)
 
 
 ### Links
