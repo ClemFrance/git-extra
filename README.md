@@ -11,7 +11,7 @@ Blog Preview Card
 
 ### Screenshot
 
-![](<FireShot Capture 012 - Blog Card - .png>)
+![alt text](<FireShot Capture 012 - Blog Card - .png>)
 ![](fig1.jpg)
 
 
